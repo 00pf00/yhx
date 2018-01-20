@@ -1,0 +1,16 @@
+Spring:
+  cloud:
+    config:
+      server:
+        native:
+          serach-locations: classpath:/shared
+  profiles:
+    active: native
+
+server:
+  port: 9000
+  
+security:
+  user:
+    password: admin 
+   
