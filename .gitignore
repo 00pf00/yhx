@@ -8,6 +8,7 @@
 *.prefs
 *.bak
 /config/target/
-/config/.setting/
+/config/.settings/
+/iot/.settings/
 /regist/target/
 
