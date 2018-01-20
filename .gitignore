@@ -5,6 +5,9 @@
 /tatget/
 *.project
 *.classpath
+*.prefs
+*.bak
 /config/target/
 /config/.setting/
+/regist/target/
 
