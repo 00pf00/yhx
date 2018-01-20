@@ -1,9 +1,9 @@
-Spring:
+spring:
   cloud:
     config:
       server:
         native:
-          serach-locations: classpath:/shared
+          search-locations: classpath:/shared
   profiles:
     active: native
 
