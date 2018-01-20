@@ -1,9 +1,9 @@
 spring:
   application:
-    name: registry
+    name: register
   cloud:
     config:
-      uri: http://discovery:8888
+      uri: http://127.0.0.1:9000
       fail-fast: true
       password: admin
       username: user
